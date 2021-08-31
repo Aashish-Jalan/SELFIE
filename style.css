@@ -1,0 +1,42 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border: 5px dashed  grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body
+{
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+.style-two
+{
+    border: 0;
+    height: 25px;
+    background-image: url(type_3.png.webp);
+    background-repeat: no-repeat;
+    background-color:whitesmoke;
+   
+}
+
+#selfie
+{
+  border-style: groove;
+  border-color: yellow;
+  border-width: 5px;
+  border-left: red;
+  border-right: red;
+  
+}
